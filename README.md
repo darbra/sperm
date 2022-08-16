@@ -6,7 +6,7 @@
 
 # 加入群聊
 
- ![test](https://mmbiz.qpic.cn/mmbiz_jpg/8ib9picwJag1YRjsq99NqyxEDqnOgnAyUV3XVJRuJAVibibNQa7VlCN47FWrl2mE1tpHMDzOgU9KyJa7EY7ysGJozA/0?wx_fmt=jpeg)
+ ![test](https://mmbiz.qpic.cn/mmbiz_png/8ib9picwJag1YicE8z11QjVNlE1eNbHy4qkKbCFQtscYWlNdaWU313R7ibLQS9TUElu0PeX5RvaSiapcAcEME1ia3ADQ/0?wx_fmt=png)
 
  - 如果二维码失效加我微信darbra拉你进群
 
