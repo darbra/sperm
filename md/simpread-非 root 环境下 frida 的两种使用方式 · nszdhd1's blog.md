@@ -242,3 +242,4 @@ com.demo.xx
 坑 1：不算支持持久化，启动过程中, so 加载时文件系统还没初始化，无法加载 frida.js
 
 坑 2：此种启动方式不会执行 JNI_OnLoad. 需要添加. init_array 这类构造函数，直接添加 frida 显得有点蠢，不如自己写个 hook 加载 frida。
+
