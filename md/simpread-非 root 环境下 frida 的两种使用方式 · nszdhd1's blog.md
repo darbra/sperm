@@ -243,3 +243,4 @@ com.demo.xx
 
 坑 2：此种启动方式不会执行 JNI_OnLoad. 需要添加. init_array 这类构造函数，直接添加 frida 显得有点蠢，不如自己写个 hook 加载 frida。
 
+
